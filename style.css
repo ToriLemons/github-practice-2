@@ -1,3 +1,15 @@
 h1 {
     color: blue;
 }
+
+.column {
+    background-color: aqua;
+    float: left;
+    width: 25%;
+    padding-right: 10px;
+}
+
+.row {
+    display: table;
+    clear: both;
+}
